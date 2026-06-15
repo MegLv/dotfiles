@@ -1,2 +1,2 @@
 # 2DTDOTFAILS  
-## Dotfiles scripts 
+Dotfiles scripts 
