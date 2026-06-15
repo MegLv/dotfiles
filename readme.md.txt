@@ -1,2 +1,2 @@
-2DTDOTFAILS  
-Dotfails skripts 
+# 2DTDOTFAILS  
+## Dotfiles scripts 
